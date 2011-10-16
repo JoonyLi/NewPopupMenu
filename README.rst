@@ -18,4 +18,4 @@ This repo includes a sample Activity (NewPopupMenuActivity.java) to show how to 
 Screens
 =======
 
-* .. image:: https://github.com/u1aryz/NewPopupMenu/blob/master/screen.png
+* .. image:: https://github.com/u1aryz/NewPopupMenu/raw/master/screen.png
